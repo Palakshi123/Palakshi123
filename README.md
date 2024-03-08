@@ -1,4 +1,4 @@
-# Hello World, I'm Palakshi Choksi! 🌟
+# Hello, I'm Palakshi Choksi! 🌟
 
 ## 🚀 About Me
 I’m a Data Scientist with a flair for turning data into narratives and actions. Currently, I am working at AECOM as Data Scientist and compeleted a Master’s from Northeastern University, my forte lies in machine learning, data analytics, and making data dance to the tune of insights!
