@@ -28,13 +28,8 @@ I’m a **Data Scientist II** with a strong background in analytics, machine lea
 - **End-to-End ML Pipeline for Inventory Demand Forecasting**  
   Built and deployed a production-grade ML pipeline using **Python, XGBoost, and Azure ML**, reducing operational costs and improving forecasting accuracy.
 
-- **NLP-Powered Data Quality Engine**  
-  Designed an NLP workflow to standardize address data, auto-correct text, and detect inconsistencies—cutting manual data review by **75%**.
-
 - **AI / LLM Exploration (In Progress)**  
   Building **RAG-based applications** for domain-specific question answering using embeddings, vector databases, and LLM orchestration.
-
-*(Link repos here once pushed — even 1–2 strong repos are enough.)*
 
 ---
 
