@@ -1,5 +1,5 @@
 Hi there! 👋, I'm Palakshi Choksi  
-I’m a **Data Scientist II** with a strong background in analytics, machine learning, and applied AI, currently based in Denver, CO 🇺🇸.
+I’m a **Data Scientist II** with a strong background in analytics, machine learning, and applied AI, currently based in Denver, CO, USA
 
 ---
 
