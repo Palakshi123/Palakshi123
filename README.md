@@ -9,7 +9,6 @@ I’m a **Data Scientist II** with a strong background in analytics, machine lea
 - 👯 I’m looking to collaborate on projects related to **AI/ML, LLM applications, RAG systems, analytics, and MLOps**
 - 💬 Ask me about **Python, SQL, XGBoost, Azure ML, NLP, Power BI, end-to-end ML pipelines**
 - 📫 Reach me at: **(palakshichoksi12@gmail.com)**
-- 
 
 ---
 
