@@ -32,18 +32,6 @@ I’m a **Data Scientist II** with a strong background in analytics, machine lea
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Palakshi123&show_icons=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Palakshi123" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palakshi123&layout=compact" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/palakshi-choksi/
 - 🧠 GitHub: https://github.com/Palakshi123
